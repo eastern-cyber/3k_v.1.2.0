@@ -17,8 +17,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "TIKTIK",
-  description: "Welcome to TIKTIK",
+  title: "3K - ก๊อกๆๆ",
+  description: "Welcome to 3K - KokKokKok",
 };
 
 export default function RootLayout({
